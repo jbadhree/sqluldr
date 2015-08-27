@@ -1,0 +1,1 @@
+Oracle only provide a SQL\*Loader utility to load rows from text file, but not provide a good utility to do the reverse work.
